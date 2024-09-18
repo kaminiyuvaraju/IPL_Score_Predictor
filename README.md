@@ -15,5 +15,5 @@ ___Home Page___
   <img width="460" height="300" src="readme_resources/UX-2.gif">
 </p>
 
-![alt text](readme_resources/UX-2.PNG)
+![alt text](readme_resources/UX-2.png)
 
